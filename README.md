@@ -1,2 +1,2 @@
 # e-learning
-I have develpw a code for my major project
+I have develpe a code for my major project
